@@ -1,0 +1,20 @@
+{
+  "name": "fblogin",
+  "version": "1.0.0",
+  "description": "fblogin examle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "compression": "^1.6.2",
+    "body-parser": "^1.15.2",
+    "morgan": "^1.7.0",
+    "connect-timeout": "^1.7.0",
+    "pug": "^2.0.0-rc.4",
+    "serve-favicon": "2.4.5"
+  }
+}
