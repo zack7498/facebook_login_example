@@ -1,8 +1,8 @@
 {
-  "name": "fblogin",
+  "name": "facebook_login_example",
   "version": "1.0.0",
-  "description": "fblogin examle",
-  "main": "index.js",
+  "description": "facebook_login_example",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
